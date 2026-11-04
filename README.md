@@ -12,4 +12,6 @@ Official website for **CarCareHub** — automotive servicing, vehicle repairs, r
 - `contact.html` - Contact details, workshop location, and business hours
 - `privacy.html` - Privacy policy
 - `terms.html` - Terms and conditions
+- `data-deletion.html` - Data deletion instructions (for Meta Developer / WhatsApp Cloud API compliance)
 - `styles.css` - Responsive modern styling
+
